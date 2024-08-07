@@ -12,12 +12,12 @@
 
 </div>
 
-![Screenshot](web/screenshot.jpg "Screenshot")
+![Screenshot](../../web/screenshot.jpg "Screenshot")
 
 
 <div align="center">
     <a href="https://github.com/th-ch/youtube-music/releases/latest">
-        <img src="web/youtube-music.svg" width="400" height="100" alt="YouTube Music SVG">
+        <img src="../../web/youtube-music.svg" width="400" height="100" alt="YouTube Music SVG">
     </a>
 </div>
 
@@ -36,24 +36,24 @@
 
 ## Содержание
 
-- [Возможности](#features)
-- [Доступные плагины](#available-plugins)
-- [Перевод](#translation)
-- [Скачать](#download)
+- [Возможности](#возможности)
+- [Доступные плагины](#доступные-плагины)
+- [Перевод](#перевод)
+- [Скачать](#скачать)
   - [Arch Linux](#arch-linux)
   - [MacOS](#macos)
   - [Windows](#windows)
-    - [Как установить без подключения к интернету? (в Windows)](#how-to-install-without-a-network-connection-in-windows)
-- [Темы](#themes)
-- [Для разработчиков](#dev)
-- [Создайте свои собственные плагины](#build-your-own-plugins)
-  - [Создание плагина](#creating-a-plugin)
-  - [Примеры использования](#common-use-cases)
-- [Сборка](#build)
-- [Предварительный просмотр](#production-preview)
-- [Тестирование](#tests)
-- [Лицензия](#license)
-- [Часто задаваемые вопросы](#faq)
+    - [Как установить без подключения к интернету? (в Windows)](#установка-без-подключения-к-интернету-в-windows)
+- [Темы](#темы)
+- [Для разработчиков](#для-разработчиков)
+- [Создайте свои собственные плагины](#создайте-свои-собственные-плагины)
+  - [Создание плагина](#создание-плагина)
+  - [Примеры использования](#примеры-использования)
+- [Сборка](#сборка)
+- [Предварительный просмотр](#предварительный-просмотр)
+- [Тестирование](#тестирование)
+- [Лицензия](#лицензия)
+- [Часто задаваемые вопросы](#часто-задаваемые-вопросы)
 
 ## Возможности:
 
